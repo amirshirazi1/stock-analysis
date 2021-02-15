@@ -11,9 +11,9 @@ In our table that is created in Excel using our VBA code, we see that for 2017 a
 
 In terms of our code, we can see in the images below that our refactored code ran in under half a second. To build the same table and receive the same results using our unrefactored code, I saw that it took a little more than 3 seconds each time the code was run.
 
-! [VBA_Challenge_2017.png] (https://github.com/amirshirazi1/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+! [VBA_Challenge_2017.png](https://github.com/amirshirazi1/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
-! [VBA_Challenge_2018.png] (https://github.com/amirshirazi1/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+! [VBA_Challenge_2018.png](https://github.com/amirshirazi1/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 ## Summary
 
